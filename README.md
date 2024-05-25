@@ -9,7 +9,8 @@
 
 
 
-#Registration Page
+<h3>Registration Page</h3>
+
 ![Screenshot 2024-02-19 132716](https://github.com/naveeenkm/login/assets/136746420/2da98083-d118-4cb8-b746-9499a28b0bc5)
 
 
